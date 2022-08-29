@@ -1,0 +1,92 @@
+.ctrl::after{
+    position: absolute;
+    top: 0.4rem;
+    right: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1.5rem;
+    padding-right: 0.25rem;
+    padding-left: 0.25rem;
+    font-size: .75rem;
+    color: #6c757d;
+    content: "Ctrl + /";
+    border: 1px solid #dee2e6;
+    border-radius: 0.125rem;
+}
+
+nav{
+    background-color: #000;
+}
+.navbar{
+    padding: 0.75rem 0;
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, #7430F7,#7430F7) !important;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%), inset 0 -1px 0 rgb(0 0 0 / 15%);
+}
+a{
+    color: #ffffffd9 !important;
+}
+.nav-brand{
+    color: #fff !important;
+}
+.container{
+    height: 42px;
+}
+.navbar{
+    padding: 12px 0 !important;
+}
+.search{
+    width: 280px;
+    height: 38px;
+}
+.search .btn{
+    color: #fff !important;
+    border: 1px solid #fff !important;
+}
+.nav-link{
+    color: #ffffffd9 !important;
+}
+.nav-link :active{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff !important;
+}
+.my-1{
+    color: #fff !important;
+}
+.btn-outline-success:hover {
+    color: #7430F7 !important;
+    background-color: #fff !important; 
+}
+.btn.btn-outline-success{
+    background-color: #7430F7 ;
+    color: #fff ; 
+}
+.dropdown-item {
+    color: #212529 !important;
+}
+.vr.d-none{
+    width: 1px;
+    background-color: #ffffffd9;
+    opacity: 0.25;
+}
+
+.ctrl::after{
+    position: absolute;
+    top: 0.4rem;
+    right: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1.5rem;
+    padding-right: 0.25rem;
+    padding-left: 0.25rem;
+    font-size: .75rem;
+    color: #6c757d;
+    content: "Ctrl + /";
+    border: 1px solid #dee2e6;
+    border-radius: 0.125rem;
+}
+
